@@ -12,7 +12,6 @@ Gostou do curso? Quer mais? Ajude com uma doação, até um café válido =)
 
 Assinatura: Alexandre Azevedo
  
-
-
+Mais coisas nesse arquivo
 
 Testando o merge
